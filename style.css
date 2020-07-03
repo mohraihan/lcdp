@@ -44,7 +44,7 @@ div {
     border: 1px solid grey;
     width: 30%;
     background-color:#220000;
-    margin:5%;
+    margin:2.5%;
   }
 }
 @media (max-width: 991px) and (min-width: 768px) {
