@@ -27,7 +27,6 @@ h2 {
 }
 
 p {
-  border: 1px solid #111111;
   width: 90%;
   height: 150px;
   margin-left:5%;
@@ -43,9 +42,9 @@ div {
   .col-lg-4 {
     float: left;
     border: 1px solid grey;
-    width: 33.33%;
+    width: 30%;
     background-color:#220000;
-    margin:5px;
+    margin:5%;
   }
 }
 @media (max-width: 991px) and (min-width: 768px) {
