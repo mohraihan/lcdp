@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# LCDP
 
 You can use the [editor on GitHub](https://github.com/mohraihan/lcdp/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
