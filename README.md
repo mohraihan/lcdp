@@ -1,10 +1,10 @@
 # LCDP
 
-[Module2-solution](mohraihan.github.io/lcdp/mod2/)
+[Module2-solution](https://mohraihan.github.io/lcdp/mod2/)
 
-[Module3-solution](mohraihan.github.io/lcdp/mod3/)
+[Module3-solution](https://mohraihan.github.io/lcdp/mod3/)
 
-[Module4-solution](mohraihan.github.io/lcdp/mod4/)
+[Module4-solution](https://mohraihan.github.io/lcdp/mod4/)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
