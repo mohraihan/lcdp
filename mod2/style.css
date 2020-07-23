@@ -1,0 +1,74 @@
+/*CSS styles for my coursera assignment2*/
+*{
+  box-sizing: border-box;
+}
+body{
+  margin:0;
+  padding:0;
+  background-color:#000000;
+  font-family:sans-serif;
+}
+h1 {
+  font-family:serif;
+  background-color:#000000;
+  margin-bottom: 15px;
+  text-align:center;
+  color:#ffffff;
+}
+h2 {
+  background-color:silver;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:0;
+  color:#111111;
+  float:right ;
+  position:relative;
+  border: 1px solid #ffaaaa;
+}
+
+p {
+  width: 90%;
+  height: 150px;
+  margin-left:5%;
+  color: white;
+  clear:right;
+}
+div {
+}
+.row {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .col-lg-4 {
+    float: left;
+    border: 1px solid grey;
+    width: 28%;
+    background-color:#220000;
+    margin:2.5%;
+  }
+}
+@media (max-width: 991px) and (min-width: 768px) {
+    .col-md-6 {
+    float: left;
+    border: 1px solid grey;
+    width: 40%;
+    background-color:#220000;
+    margin:5%;
+    }
+    .col-md-12 {
+    float: left;
+    border: 1px solid grey;
+    width: 90%;
+    background-color:#220000;
+    margin:5%;
+  }
+}
+@media (max-width: 767px) { 
+    .col-sm-12 {
+    float: left;
+    border:1px solid grey;
+    width: 90%;
+    background-color:#220000;
+    margin:5%;
+  }
+}
