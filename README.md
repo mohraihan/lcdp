@@ -1,10 +1,7 @@
 
 ## Here's a well designed Calcualator using HTML, CSS, Javascript
-<br>
-[Calculator](https://mohraihan.github.io/lcdp/calc.html)<br>
-
+[Calculator](mohraihan.github.io/lcdp/calc.html) <br>
 ## Checkout a cool webpage with an foto of me created using html only
-<br>
 [Me](https://mohraihan.github.io/lcdp/me.html)
 
 ## A website for restaurant
